@@ -1,0 +1,3 @@
+Scenario: scenario31
+Final Top-1 Acc: 47.15%
+Final Top-5 Acc: 93.76%

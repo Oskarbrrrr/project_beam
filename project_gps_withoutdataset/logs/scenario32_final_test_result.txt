@@ -1,0 +1,3 @@
+Scenario: scenario32
+Final Top-1 Acc: 44.51%
+Final Top-5 Acc: 89.03%
